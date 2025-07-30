@@ -1,1 +1,7 @@
 node_modules
+
+# Cypress artifacts
+cypress/reports/
+cypress/downloads/
+cypress/screenshots/
+cypress/videos/
