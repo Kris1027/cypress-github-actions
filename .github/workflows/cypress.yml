@@ -15,5 +15,4 @@ jobs:
         env:
           VITE_HEADING: ${{ secrets.VITE_HEADING }}
         with:
-          build: npm run build
-          start: npm start
+          start: npm run dev
